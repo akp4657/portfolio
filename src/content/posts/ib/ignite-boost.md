@@ -5,7 +5,7 @@ image: ./ibcover.png
 description: Solo project built in the MERN stack for DFC
 tags: [Project, NodeJS, React, MongoDB, Full-Stack]
 category: Projects
-draft: true
+draft: false
 ---
 
 # Video Database for Dengeki Bunko Fighting Climax Ignition

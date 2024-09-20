@@ -58,6 +58,14 @@ export type ProfileConfig = {
   }[]
 }
 
+export type LanguageConfig = {
+  name: string
+  icons: {
+    name: string
+    icon: string
+  }[]
+}
+
 export type LicenseConfig = {
   enable: boolean
   name: string

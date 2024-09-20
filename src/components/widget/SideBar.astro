@@ -2,6 +2,7 @@
 import Profile from './Profile.astro'
 import Tag from './Tags.astro'
 import Categories from './Categories.astro'
+import Languages from './Languages.astro'
 
 const className = Astro.props.class
 ---
@@ -10,6 +11,7 @@ const className = Astro.props.class
         <Profile></Profile>
     </div>
     <div id="sidebar-sticky" class="transition-all duration-700 flex flex-col w-full gap-4 top-4 sticky top-4">
+        <Languages class="onload-animation" style="animation-delay: 200ms"></Languages>
         <Categories class="onload-animation" style="animation-delay: 150ms"></Categories>
         <Tag class="onload-animation" style="animation-delay: 200ms"></Tag>
     </div>

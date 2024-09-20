@@ -3,6 +3,7 @@ import type {
   NavBarConfig,
   ProfileConfig,
   SiteConfig,
+  LanguageConfig
 } from './types/config'
 import { LinkPreset } from './types/config'
 
@@ -11,7 +12,7 @@ export const siteConfig: SiteConfig = {
   subtitle: '',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
-    hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    hue: 230,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
@@ -48,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Anthony Pichardo',
   bio: "Full-stack web developer based out of Rochester, New York with a passion for learning, video games, and professional wrestling.",
   links: [
@@ -61,6 +62,28 @@ export const profileConfig: ProfileConfig = {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/akp4657',
+    },
+  ],
+}
+
+export const languageConfig: LanguageConfig = {
+  name: 'Stack',
+  icons: [
+    {
+      name: 'Angular',
+      icon: 'fa6-brands:angular',
+    },
+    {
+      name: 'CSS',
+      icon: 'fa6-brands:node',
+    },
+    {
+      name: 'MongoDB',
+      icon: 'fa6-solid:leaf',
+    },
+    {
+      name: 'SQL',
+      icon: 'fa6-solid:database',
     },
   ],
 }
