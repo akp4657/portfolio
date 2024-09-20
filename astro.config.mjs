@@ -18,7 +18,6 @@ import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.
 import {parseDirectiveNode} from "./src/plugins/remark-directive-rehype.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs"
 import {remarkExcerpt} from "./src/plugins/remark-excerpt.js";
-import vercel from "@astrojs/vercel";
 
 const oklchToHex = (str) => {
   const DEFAULT_HUE = 250
@@ -32,8 +31,6 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  output: "server",
-  adapter: vercel(),
   site: "https://anthonypichardo.dev/",
   base: "/",
   trailingSlash: "always",
