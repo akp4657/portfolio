@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anthonypichardo.dev/sitemap-index.xml
+Sitemap: https://akp4657.github.io/portfolio/sitemap-index.xml
