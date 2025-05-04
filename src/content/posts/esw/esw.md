@@ -23,8 +23,8 @@ The website is constantly being updated as wrestlers come and go, events change,
 
 ## Comparison of Designs
 
-Old
+**Old**:
 ![image info](./eswold.PNG)
 
-New
+**New**:
 ![image info](./eswrework.PNG)
