@@ -19,7 +19,7 @@ Tech Stack:
 
 Solo project to rework the website for Empire State Wrestling (ESW), the biggest wrestling promotion in the Western New York region. The main features requested were a dynamic roster and history pages. However, the crux of the rework is to allow users to easily navigate to tickets, merchandise, and sponsorship opportunities.
 
-The website is constantly being updated as wrestlers come and go, events change, and championship change hands.
+The website is constantly being updated as wrestlers come and go, events change, and championships change hands.
 
 ## Comparison of Designs
 
