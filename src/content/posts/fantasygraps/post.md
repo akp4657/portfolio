@@ -25,6 +25,4 @@ Fantasy Graps is an online game where participants manage a virtual roster made 
 
 FG is a solo project building an application for a fantasy sports game revolving around pro wrestling. Users draft a roster of real life wrestlers and follow their performance week to week in order to gain the most points to win! Built in the MEAN stack, the main feature is an integration with Zoho sheets that allows me to update all relevant data in one spreadsheet while a job updates the points and updates for each wrestler in each user's team every five minutes. 
 
-The project has been on pause since starting the [Empire State Wrestling Rework](https://www.anthonypichardo.dev/posts/esw/esw), but will resume when the rework has officially launched. Below is an example of the dynamic point system from one week where these points were updated as the shows were live.
-
 ![image info](./fgexample.PNG)
