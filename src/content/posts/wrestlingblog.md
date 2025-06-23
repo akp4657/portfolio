@@ -4,7 +4,7 @@ published: 2024-09-19
 description: Planned project for a wrestling blog using the MEAN stack
 tags: [WIP, In-Progress]
 category: In-Progress
-draft: false
+draft: true
 
 ---
 
