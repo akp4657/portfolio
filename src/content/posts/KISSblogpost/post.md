@@ -9,7 +9,7 @@ draft: false
 ---
 Recently, I was able to complete and launch the [website relaunch](https://www.anthonypichardo.dev/posts/esw/post/) for Empire State Wrestling (ESW). ESW is the largest independent wrestling promotion in upstate New York. However, despite being the largest, their website was lacking in numerous ways. From broken links, outdated information/tickets, to just being an outdated web design. ESW was in desperate need of a complete overhaul of their website to not only serve as a storage for championship history and roster information, but to also allow users to quickly and easily access tickets for the next show - ESW's primary revenue source.
 
-![image Old ESW](./eswold.png)
+![image Old ESW](./eswexample.png)
 
 When starting this project, my primary focus was on what the user would ultimately be visiting the site for. My conclusion was that the average user would be visiting the site for one purpose: To be redirected on where to buy the tickets. This is where the KISS principle came to the forefront of this project. The reworked site would need to be as streamlined as possible to serve the primary purpose while also ensuring the site can be easily maintained even if I'm not available.
 
