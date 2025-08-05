@@ -3,7 +3,7 @@ title: Empire State Wrestling Website Rework
 published: 2025-05-03
 image: ./eswprof.jpg
 description: "Bootstrap project to rework Empire State Wrestling's website"
-tags: [Project, Bootstrp, PUG, Frontend]
+tags: [Project, Bootstrap, PUG, Frontend]
 category: Projects
 draft: false
 ---
