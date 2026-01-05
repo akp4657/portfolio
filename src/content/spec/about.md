@@ -1,7 +1,7 @@
 # About
 Hey everyone!
 
-I’m a full stack software engineer and engineering leader with over 7 years of experience building scalable web applications, backend systems, and cloud infrastructure. I specialize in JavaScript, TypeScript, Node.js, React, and MongoDB, with a strong track record of delivering reliable, user-focused software in fast-paced environments.
+I’m a full stack software engineer and engineering leader with over 6 years of experience building scalable web applications, backend systems, and cloud infrastructure. I specialize in JavaScript, TypeScript, Node.js, React, and MongoDB, with a strong track record of delivering reliable, user-focused software in fast-paced environments.
 
 Throughout my career, I’ve led teams, architected full-stack solutions, and collaborated cross-functionally with product, design, and data teams to bring complex ideas to life. From optimizing backend APIs and containerized deployments to crafting responsive user interfaces, I bring both a big-picture mindset and hands-on technical expertise.
 
