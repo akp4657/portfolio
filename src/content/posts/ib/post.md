@@ -25,6 +25,11 @@ Solo project built in the MERN stack. An issue I discovered while playing and co
 component to improving. In the fighting game community, there are many dedicated sites to upload and watch film back. A popular one amongst the community is the [Replay Theater](https://replaytheater.app/). However, this
 wasn't around during the rapid growth period of Dengeki's community. So, during my final year at RIT, I developed and deployed [Ignite-Boost](https://www.ignite-boost.net/).
 
-Ignite-Boost was built in the MERN stack along with tools such as Handlebars, Babel, and CI/CD. It's currently hosted using Heroku with a Production and QA environment. The website receives feedback through my personal Discord server for the site as well as direct communication with community members. As of today, the website hosts over 17,000 entries of videos for Dengeki Bunko Fighting Climax. This is the largest public video database for the game that exists online. As of writing, I'm working on an Angular re-work for both Ignite-Boost and Enchant-Boost in Angular to represent my current stack.
+Ignite-Boost was originally built in the MERN stack along with tools such as Handlebars, Babel, and CI/CD. It's currently hosted using Heroku with a Production and QA environment. The website receives feedback through my personal Discord server for the site as well as direct communication with community members. As of today, the website hosts over 17,000 entries of videos for Dengeki Bunko Fighting Climax. This is the largest public video database for the game that exists online. As of writing, I'm working on an Angular re-work for both Ignite-Boost and Enchant-Boost in Angular to represent my current stack.
 
 ![image info](./ib.PNG)
+
+Recently, the project has been updated to the MEAN stack with the primary re-factors being on the frontend in the transition to Angular. The functionality remains the same, and is now maintained by two people instead of just by me. More information of the re-work can be found on the forked repo:
+::github{repo="GaryButternubs/ignite-boost"}
+
+![image info](./newib.png)
